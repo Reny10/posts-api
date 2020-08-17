@@ -1,2 +1,2 @@
 # posts-api
-Basic Backend Api with Node.js, Express, Mongoose, Cors.
+Basic Backend with Node.js, Express, Mongoose, Cors.
